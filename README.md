@@ -1,7 +1,5 @@
 https://qwant.kz
 
-# 1.1 my_ls
- 
 # Qwant_projects_season_1
 <p float="left">
   <img src="https://qwant.kz/images/logo/logo-main.png" width="300" />
