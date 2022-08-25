@@ -1,3 +1,5 @@
+https://qwant.kz
+
 # 1.1 my_ls
  
 # Qwant_projects_season_1
